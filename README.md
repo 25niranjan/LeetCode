@@ -14,6 +14,7 @@ All Submission To Leetcode Question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/25niranjan/LeetCode/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ All Submission To Leetcode Question
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/25niranjan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
@@ -37,4 +39,8 @@ All Submission To Leetcode Question
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
