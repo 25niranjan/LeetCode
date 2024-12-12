@@ -11,6 +11,7 @@ All Submission To Leetcode Question
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/25niranjan/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/25niranjan/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/25niranjan/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/25niranjan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
@@ -24,6 +25,7 @@ All Submission To Leetcode Question
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/25niranjan/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/25niranjan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sliding Window
 |  |
@@ -32,6 +34,7 @@ All Submission To Leetcode Question
 | [0966-binary-subarrays-with-sum](https://github.com/25niranjan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/25niranjan/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/25niranjan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
 |  |
@@ -48,6 +51,7 @@ All Submission To Leetcode Question
 | [0966-binary-subarrays-with-sum](https://github.com/25niranjan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/25niranjan/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
