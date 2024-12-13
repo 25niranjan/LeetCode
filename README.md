@@ -65,6 +65,7 @@ All Submission To Leetcode Question
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/25niranjan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2187-vowels-of-all-substrings](https://github.com/25niranjan/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,4 +80,13 @@ All Submission To Leetcode Question
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2187-vowels-of-all-substrings](https://github.com/25niranjan/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/25niranjan/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/25niranjan/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
