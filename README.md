@@ -22,6 +22,7 @@ All Submission To Leetcode Question
 | [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/25niranjan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/25niranjan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/25niranjan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ All Submission To Leetcode Question
 | [0966-binary-subarrays-with-sum](https://github.com/25niranjan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/25niranjan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/25niranjan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/25niranjan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/25niranjan/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/25niranjan/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Sorting
@@ -59,6 +61,7 @@ All Submission To Leetcode Question
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/25niranjan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/25niranjan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
